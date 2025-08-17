@@ -1,1 +1,1 @@
-# Auism_Prediction using Machine Learning
+# Autism_Prediction using Machine Learning
